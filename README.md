@@ -20,6 +20,7 @@ Install dependencies using pip:
 
     pip install Flask
     pip install requests
+    pip install gunicorn
     pip install newsapi-python
     
 
