@@ -10,7 +10,7 @@ Prerequisites
 
 Installation
 
-    Clone the repository: git clone https://github.com/your-username/flask-news-web-app.git
+    Clone the repository: git clone git@github.com:yubraj-rai/flask_news_app.git
 
 Navigate to the project directory:
 
