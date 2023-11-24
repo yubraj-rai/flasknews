@@ -33,9 +33,7 @@ Configuration
 Usage
 
     Run the Flask application:
-
-    bash
-
+    
     python app.py
     Example: /bin/python3 "/app_path/FlaskNewsApplication/app.py"
     
